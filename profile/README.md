@@ -1,4 +1,4 @@
-# Aurora Peak
+<p align="center"><img src="https://raw.githubusercontent.com/aurora-peak/.github/main/profile/aurora_peak_horizontal.png" alt="Aurora Peak" width="520"></p>
 
 **Software worth the climb.** Independent products, built and shipped from the Pacific Northwest.
 
