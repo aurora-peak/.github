@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aurora-peak/.github/main/profile/assets/aurora-peak-header-1280x320.png" alt="Aurora Peak — Crafted in the Pacific Northwest." width="880">
+  <img src="https://raw.githubusercontent.com/aurora-peak/.github/main/profile/assets/github-org-header-1280x320.png" alt="Aurora Peak — Crafted in the Pacific Northwest." width="880">
 </p>
 
 <h3 align="center">Thoughtful apps. Built with care.</h3>
